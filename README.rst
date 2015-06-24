@@ -50,4 +50,4 @@ Typical usage looks like this::
 Links
 -----
 
-* `py2neo documentation <http://http://py2neo.org>`_
+* `py2neo documentation <http://py2neo.org/2.0/>`_
